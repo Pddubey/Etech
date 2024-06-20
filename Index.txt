@@ -1,0 +1,100 @@
+/* hero section */
+
+/******* titles  ********************************/
+Develop your skill in a new & unique way
+
+/************* description ********************************/
+Unlock your potential with expert-led online courses. Achieve your goals with flexible, comprehensive content. Join thousands on a journey to success 
+
+/* Course Section */
+
+title = "Course Section"
+input placeholder = "Search for Over 50+ Courses"
+headin2= "Benefits From Our Online Learning"
+
+Feature1
+Online Degrees
+Transform your skills with expert-led online courses designed for success
+
+Feature2
+Short Courses
+
+feature3
+Training From Experts
+
+Feature4
+1.5k+ Video Courses
+
+
+/********* Popular Courses ****************/
+title = "Popular Courses"
+paragraph="Unlock your potential with expert-led online courses. Achieve your goals with flexible, comprehensive content. Join thousands on a journey to success "
+
+/*******************cards****************/
+card1
+Web Design  4.9
+title="Web Design & Development"
+25 Classes  185 Students
+$ 560.00    Tenyy
+
+card2
+UI/UX designe  5.0
+title="Wireframing & Prototyping"
+8 Classes  400 Students
+$ 160.00    Lissa
+
+card3
+Data Science  4.9
+title="Python For Data Science"
+18 Classes  160 Students
+$ 432.00    Mike
+
+/*************** Join Us****************/
+If You Are A Certified Teacher Then Become An Instructor
+
+Unlock your potential with expert-led online courses. Achieve your goals with flexible, comprehensive content. Join thousands on a journey to success 
+
+perks:
+Global Impact
+Flexible Schedule
+Innovative Teaching Tool
+Recognition And Reputaion
+Creative Freedom
+Monetize Your Experties
+Professional Development
+Netwoking opportunity
+
+btn =BecomesAnInstructor
+
+
+/***************testimonial Section****************/
+
+Student Testimonials
+Unlock your potential with expert-led online courses. Achieve your goals with flexible, comprehensive content. Join thousands on a journey to success 
+
+/* review-card */
+Emiley Chan
+UX/UI Design
+Exceptional Course! The web design course was comprehensive and easy to follow. The instructors explained complex topics in a simple and engaging way.
+
+Rock Lee
+Web Designer
+Exceptional Course! The web design course was comprehensive and easy to follow. The instructors explained complex topics in a simple and engaging way.
+
+Emma Watson
+Web Developer
+Exceptional Course! The web design course was comprehensive and easy to follow. The instructors explained complex topics in a simple and engaging way.
+
+/*********** Footer ******************/
+Explore a tranfermative approach to skill dvelopment on our online learning platform
+
+Links
+
+Courses
+Become Teacher
+All In One
+Services
+
+Contact Us
++91 9336610493
+pd5108445@gmail.com

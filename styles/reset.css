@@ -1,0 +1,66 @@
+/* Reset Box Model and Remove Margins/Padding */
+*,
+*::before,
+*::after {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+/* Remove List Styles (Optional) */
+ul, ol {
+    list-style: none;
+}
+
+/* Remove Default Typography */
+body, h1, h2, h3, p, ul, ol {
+    margin: 0;
+    padding: 0;
+    font-size: 1rem; /* Adjust as per your design */
+    font-weight: normal;
+}
+
+/* Remove Hyperlink Decoration */
+a {
+    text-decoration: none;
+    color: inherit;
+}
+
+/* Remove Default Button Styles */
+button {
+    background: none;
+    border: none;
+    padding: 0;
+    font: inherit;
+    cursor: pointer;
+}
+
+/* Normalize Typography */
+body {
+    font-family: 'DM Sans', sans-serif; /* Example font */
+    line-height: 1.5;
+}
+
+/* Additional Resets and Normalizations */
+html {
+    scroll-behavior: smooth;
+}
+
+/* Ensures images and other replaced elements display correctly */
+img {
+    display: block;
+    max-width: 100%;
+    height: auto;
+}
+
+input {
+    -webkit-appearance: none; /* Safari */
+    -moz-appearance: none; /* Firefox */
+    appearance: none; /* Default */
+    border: none; /* Remove border */
+    outline: none; /* Remove outline */
+    background: none; /* Remove background */
+    padding: 0; /* Remove padding */
+    margin: 0; /* Remove margin */
+    font: inherit; /* Use the same font as the rest of the document */
+}
